@@ -1,8 +1,3 @@
-### **двачсквад** - это
-* баги
-* говнокод
-* краши
-
 ### **наши** проекты и проекты от всяких нефоров
 
 * [**kodikwrapper**](https://github.com/thedvxchsquad/kodikwrapper) - api враппер kodikapi.com
