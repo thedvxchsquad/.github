@@ -1,4 +1,4 @@
-![our banner](./banner.svg)
+![our banner](https://raw.githubusercontent.com/thedvxchsquad/.github/main/profile/banner.svg)
 
 # hi, everynyan. we are dvxchsquad
 
@@ -10,6 +10,6 @@
 
 ## ссылки
 
-<a href="https://dvxchsquad.dev" target="_blank"><img src="./fav.svg" alt="dvxchsquad website" width="48" height="48" /></a>
-<a href="https://dvxchsquad.dev/discord" target="_blank"><img src="./discord.svg" alt="dvxchsquad discord" width="48" height="48" /></a>
-<a href="https://dvxchsquad.dev/tg" target="_blank"><img src="./telegram.svg" alt="dvxchsquad telegram" width="48" height="48" /></a>
+<a href="https://dvxchsquad.dev" target="_blank"><img src="https://raw.githubusercontent.com/thedvxchsquad/.github/main/profile/fav.svg" alt="dvxchsquad website" width="48" height="48" /></a>
+<a href="https://dvxchsquad.dev/discord" target="_blank"><img src="https://raw.githubusercontent.com/thedvxchsquad/.github/main/profile/discord.svg" alt="dvxchsquad discord" width="48" height="48" /></a>
+<a href="https://dvxchsquad.dev/tg" target="_blank"><img src="https://raw.githubusercontent.com/thedvxchsquad/.github/main/profile/telegram.svg" alt="dvxchsquad telegram" width="48" height="48" /></a>
