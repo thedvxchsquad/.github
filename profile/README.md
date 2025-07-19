@@ -5,7 +5,7 @@
 ## проекты
 
 * [**kodikwrapper**](https://github.com/thedvxchsquad/kodikwrapper) - api враппер kodikapi.com
-[**anime365wrapper**](https://github.com/thedvxchsquad/anime365wrapper) - api враппер для anime365 (smotret-anime.ru)
+* [**anime365wrapper**](https://github.com/thedvxchsquad/anime365wrapper) - api враппер для anime365 (smotret-anime.ru)
 * [**neverlane/shikimori**](https://github.com/neverlane/shikimori) - api враппер shikimori.one
 * и ещё дохуя в привате сори
 
